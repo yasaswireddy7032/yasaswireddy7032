@@ -8,6 +8,13 @@ This GitHub is where I share independent projects on retrieval, agent workflows,
 
 [Portfolio](https://yasaswireddy7032.github.io/evidence-search/) · [LinkedIn](https://www.linkedin.com/in/yasaswireddy/) · [Email](mailto:yasaswireddy7032@gmail.com)
 
+## New agentic AI projects
+
+- **[Cited Research Agent](https://github.com/yasaswireddy7032/cited-research-agent)** — selects search/read actions, validates source quotes, and stops at a fixed step budget.
+- **[Approval Triage Agent](https://github.com/yasaswireddy7032/approval-triage-agent)** — looks up policy, proposes a routing decision, and waits for human approval before a local assignment.
+
+Added November 2026. Each includes nine passing local tests, a scripted demo, and an optional Ollama adapter. Live-model behavior still needs evaluation.
+
 ## Selected projects
 
 | Project | Engineering focus |
