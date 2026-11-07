@@ -34,3 +34,11 @@ Added November 2026. Each includes nine passing local tests, a scripted demo, an
 - **UNC Charlotte** — M.S. in Data Science & Business Analytics · August 2023–December 2024
 
 These are independent portfolio projects using synthetic or hand-authored demonstration data. They are separate from employer systems and do not represent employer code or production performance results.
+
+## Certifications
+
+- AWS Certified Generative AI Developer - Professional (AIP-C01)
+- Meta Back-End Developer Professional Certificate
+- Meta Front-End Developer Professional Certificate
+
+[Download my resume](https://yasaswireddy7032.github.io/evidence-search/Yasaswi-Bhumireddy-AI-Engineer.pdf)
