@@ -1,6 +1,6 @@
 # Yasaswi Bhumireddy
 
-**AI/ML Engineer · Generative AI · Retrieval · Agent Workflows · Evaluation**
+**AI Engineer · LLM agents, retrieval & evaluation for regulated industries**
 
 I’m a Delivery Consultant in Gen AI/ML at AWS. I work with enterprise teams on conversational AI, retrieval, and agent workflows using Bedrock, AgentCore, and MCP. Before AWS, I built compliance AI at Citibank and fraud-detection systems at Jio Payments Bank.
 
@@ -8,12 +8,15 @@ This GitHub is where I share independent projects on retrieval, agent workflows,
 
 [Portfolio](https://yasaswireddy7032.github.io/evidence-search/) · [LinkedIn](https://www.linkedin.com/in/yasaswireddy/) · [Email](mailto:yasaswireddy7032@gmail.com)
 
-## New agentic AI projects
+## Featured
 
-- **[Cited Research Agent](https://github.com/yasaswireddy7032/cited-research-agent)** — selects search/read actions, validates source quotes, and stops at a fixed step budget.
-- **[Approval Triage Agent](https://github.com/yasaswireddy7032/approval-triage-agent)** — looks up policy, proposes a routing decision, and waits for human approval before a local assignment.
+- **[Dispute Copilot](https://github.com/yasaswireddy7032/dispute-copilot)**: a mobile web app where five agents answer card questions ("what is this charge?", "I was charged twice", "I didn't make this"). A validator checks every amount, date and deadline against the account before the reply goes out, and fraud goes to a person. It includes a specialist console, an eval harness with a hand-written hard set, and 58 tests.
+- **[Harbor](https://github.com/yasaswireddy7032/harbor)**: a private, trauma-informed space for women who've experienced sexual violence to say what they can't say out loud yet. It runs entirely on the phone, encrypts anything saved with her passcode, has a quick exit, and puts crisis safety checks before everything else. [Try it](https://yasaswireddy7032.github.io/harbor/).
 
-Added November 2026. Each includes nine passing local tests, a scripted demo, and an optional Ollama adapter. Live-model behavior still needs evaluation.
+## More agent projects
+
+- **[Cited Research Agent](https://github.com/yasaswireddy7032/cited-research-agent)** selects search/read actions, validates source quotes and stops at a fixed step budget.
+- **[Approval Triage Agent](https://github.com/yasaswireddy7032/approval-triage-agent)** looks up policy, proposes a routing decision and waits for human approval before a local assignment.
 
 ## Selected projects
 
