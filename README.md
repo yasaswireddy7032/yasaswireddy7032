@@ -1,4 +1,4 @@
-# Yasaswi Bhumireddy
+# Yasaswi Reddy
 
 **AI Engineer · LLM agents, retrieval & evaluation for regulated industries**
 
@@ -58,4 +58,4 @@ These are independent portfolio projects using synthetic or hand-authored demons
 - Meta Back-End Developer Professional Certificate
 - Meta Front-End Developer Professional Certificate
 
-[Download my resume](https://yasaswireddy7032.github.io/evidence-search/Yasaswi-Bhumireddy-AI-Engineer.pdf)
+[Download my resume](https://yasaswireddy7032.github.io/evidence-search/Yasaswi-Reddy-AI-Engineer.pdf)
