@@ -33,7 +33,7 @@ This GitHub is where I share independent projects on retrieval, agent workflows,
 
 - **Amazon Web Services** — Delivery Consultant, Gen AI/ML · May 2025–present · Arlington, VA
 - **Citibank** — AI Engineer Intern, Risk & Compliance Technology · July 2024–April 2025 · New York, NY
-- **Jio Payments Bank** — Machine Learning Engineer · March 2021–July 2023
+- **Jio Payments Bank** — Machine Learning Engineer (Intern to Full-time) · March 2021–July 2023
 - **UNC Charlotte** — M.S. in Data Science & Business Analytics · August 2023–December 2024 · GPA 3.7
 
 These are independent portfolio projects using synthetic or hand-authored demonstration data. They are separate from employer systems and do not represent employer code or production performance results.
