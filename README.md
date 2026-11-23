@@ -54,8 +54,8 @@ These are independent portfolio projects using synthetic or hand-authored demons
 
 ## Certifications
 
-- AWS Certified Generative AI Developer - Professional (AIP-C01)
-- Meta Back-End Developer Professional Certificate
-- Meta Front-End Developer Professional Certificate
+- [AWS Certified Generative AI Developer - Professional (AIP-C01)](https://www.credly.com/badges/193e11a4-91ea-4cf1-bf5d-c56164c452f9) · Amazon Web Services, 2026
+- AWS Certified Machine Learning Engineer - Associate (MLA-C01) · Amazon Web Services
+- AI Security Bootcamp: Guardrails, LLM Gateways, Observability · Udemy
 
 [Download my resume](https://yasaswireddy7032.github.io/evidence-search/Yasaswi-Reddy-AI-Engineer.pdf)
